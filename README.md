@@ -111,4 +111,4 @@ Happy regex coding!
 ## Author
 
 I'm Felipe, I'm a student at RICE coding Bootcamp for full-stack developer looking foward to become a master coder.
-GitHum: [Felipe](https://github.com/FelipeLyra1)
+GitHub: [Felipe](https://github.com/FelipeLyra1)
