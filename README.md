@@ -106,6 +106,8 @@ Regular expressions in JavaScript offer a wide range of features and techniques 
 
 Happy regex coding!
 
+---
+
 ## Author
 
 I'm Felipe, I'm a student at RICE coding Bootcamp for full-stack developer looking foward to become a master coder.
